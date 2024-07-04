@@ -2,7 +2,7 @@
 Analyse der Daten der
 GENESIS-Tabelle: 47414-102
 Konjunkturstatistik: Beschäftigte und Umsatz
-- Veränderung gegenüber Vorjahresmonat,
+Veränderung gegenüber Vorjahresmonat,
 Dienstleistungsbereiche, WZ2008 - Sachsen - Monate - Jahre
 Konjunkturerhebung im Dienstleistungsbereich
 Freistaat Sachsen
