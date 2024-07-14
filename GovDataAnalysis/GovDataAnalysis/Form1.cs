@@ -8,6 +8,12 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Windows.Forms;
 
+//Code für die Listboxen:
+//listBoxMonths.Items.AddRange(Enum.GetNames(typeof(Month)));  
+//listBoxYears.Items.AddRange(new string[] { "2021", "2022", "2023" });       
+//listBoxIndicators.Items.AddRange(new string[] { "BeschI", "UmINom", "UmIR" });
+//listBoxSectors.Items.AddRange(new string[] { "Verk", "Info", "Grund", "Freib", "Sonst", "Dienst", "OhneL" });
+
 public enum Month
 {
     Jan = 1, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec
