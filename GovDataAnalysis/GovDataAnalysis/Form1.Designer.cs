@@ -39,6 +39,42 @@
             this.textBox1.Size = new System.Drawing.Size(775, 425);
             this.textBox1.TabIndex = 0;
             // 
+            // listBoxMonths
+            // 
+            listBoxMonths.FormattingEnabled = true;
+            listBoxMonths.ItemHeight = 15;
+            listBoxMonths.Location = new Point(33, 57);
+            listBoxMonths.Name = "listBoxMonths";
+            listBoxMonths.Size = new Size(120, 94);
+            listBoxMonths.TabIndex = 1;
+            // 
+            // listBoxYears
+            // 
+            listBoxYears.FormattingEnabled = true;
+            listBoxYears.ItemHeight = 15;
+            listBoxYears.Location = new Point(213, 76);
+            listBoxYears.Name = "listBoxYears";
+            listBoxYears.Size = new Size(120, 94);
+            listBoxYears.TabIndex = 2;
+            // 
+            // listBoxIndicators
+            // 
+            listBoxIndicators.FormattingEnabled = true;
+            listBoxIndicators.ItemHeight = 15;
+            listBoxIndicators.Location = new Point(45, 202);
+            listBoxIndicators.Name = "listBoxIndicators";
+            listBoxIndicators.Size = new Size(120, 94);
+            listBoxIndicators.TabIndex = 3;
+            // 
+            // listBoxSectors
+            // 
+            listBoxSectors.FormattingEnabled = true;
+            listBoxSectors.ItemHeight = 15;
+            listBoxSectors.Location = new Point(238, 242);
+            listBoxSectors.Name = "listBoxSectors";
+            listBoxSectors.Size = new Size(120, 94);
+            listBoxSectors.TabIndex = 4;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
